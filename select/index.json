@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シャボン玉",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-19T12:04:18.274319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャボン玉",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_シャボン玉_モーニング娘。.txt"
+    }
+  ]
+}
